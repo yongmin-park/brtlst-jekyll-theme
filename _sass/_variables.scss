@@ -14,7 +14,8 @@ $front-page-feature-image-height : 400px; // min 150px recommended
    ========================================================================== */
 
 $base-font                       : 'Lato', Calibri, Arial, sans-serif;
-$heading-font                    : $heading;
+$title-font                      : 'Montserrat', Calibri, Arial, sans-serif
+$heading-font                    : $base-font;
 $caption-font                    : $base-font;
 $code-font                       : monospace;
 $alt-font                        : serif;
