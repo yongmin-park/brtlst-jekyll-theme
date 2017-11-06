@@ -2,8 +2,10 @@
 
 ### [Live Demo](https://yongmin-park.github.io/brut-jekyll-theme)
 
-This jekyll theme is a fork of [HPSTR theme](https://github.com/mmistakes/hpstr-jekyll-theme).
+**🚧 Working in progress**
 
+
+This jekyll theme is a fork of [HPSTR theme](https://github.com/mmistakes/hpstr-jekyll-theme).
 
 Give every credit to [@mmistakes](https://github.com/mmistakes).
 
