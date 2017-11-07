@@ -2,7 +2,7 @@
 
 ### [Live Demo](https://yongmin-park.github.io/brut-jekyll-theme)
 
-**🚧 Working in progress**
+<!-- **🚧 Working in progress** -->
 
 
 This jekyll theme is a fork of [HPSTR theme](https://github.com/mmistakes/hpstr-jekyll-theme).
